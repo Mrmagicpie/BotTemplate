@@ -1,5 +1,5 @@
 #
-#           (Bot Name) (filename).py | 2020 :copyright: (Copyrighter's name)
+#           (Bot Name) (filename).py | 2021 (c) (Copyrighter's name)
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 #
